@@ -1,0 +1,9 @@
+// This is to invoke SSR.
+
+public static void main () {
+
+WebDriver ssr = W
+ss.get
+
+
+}
